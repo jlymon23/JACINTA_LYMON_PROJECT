@@ -28,7 +28,7 @@ Note: `tkinter` is a standard library in Python and does not need separate insta
 ## Project Structure
 
 ```
-JACINTALYMON_PROJECT/
+JACINTA_LYMON_PROJECT/
 ├── data/               # Input data (CSV files)
 │   ├── Patient_data.csv
 │   ├── Notes.csv
