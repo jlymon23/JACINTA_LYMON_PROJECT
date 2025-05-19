@@ -7,6 +7,7 @@ This is a Python-based GUI application for managing patient data, clinical notes
 To run the program from terminal or command prompt, navigate to the project directory and run:
 
 ```bash
+cd src
 python main.py
 ```
 
@@ -34,16 +35,16 @@ JACINTA_LYMON_PROJECT/
 │   ├── Notes.csv
 │   └── Credentials.csv
 ├── output/             # Output logs and charts
-│   └── logs.txt
+│   └── usage_log.csv
 ├── src/                # Source code
 │   ├── ui.py
 │   ├── patient.py
 │   ├── note.py
 │   ├── stats.py
 │   ├── user.py
+│   ├── main.py         # Main entry point
 │   └── logger.py
 ├── UML.png             # UML Class Diagram
-├── main.py             # Main entry point
 ├── requirements.txt    # Required packages
 └── README.md           # Documentation
 ```
