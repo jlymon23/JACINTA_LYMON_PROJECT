@@ -71,7 +71,7 @@ JACINTA_LYMON_PROJECT/
 ## Notes for Users and Developers
 
 - Do not modify the structure of the provided CSV files. The column headers are essential for program functionality.
-- The log file (`logs.txt`) will be generated in the `output/` directory.
+- The log file (`usage_log.csv`) will be generated in the `output/` directory.
 - Ensure Python 3.7 or later is installed.
 
 Author: Jacinta Lymon  
